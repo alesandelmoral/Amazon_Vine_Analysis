@@ -26,7 +26,7 @@ Analyzing all the filters to retrieve each the rows with the total votes count e
 
 In order to verify the purchase of the product we made a double check filter, it shows that non of the vine members purchased the products and gave a 5 star, while 3,862 of 10,106 unpaid ones gave a 5 star rate covering a 38.21% of the verified purchase 5 star rate for the unpaid members.
 
-![extra_filter](https://github.com/alesandelmoral/Amazon_Vine_Analysis/blob/main/Images/DoubleFilter.PNG)
+![Double_filter](https://github.com/alesandelmoral/Amazon_Vine_Analysis/blob/main/Images/DoubleFilter1.PNG)
 
 
 ## Summary
